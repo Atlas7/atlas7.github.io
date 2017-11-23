@@ -36,3 +36,27 @@ How I created this blog:
   - make sure our remote `origin` now points to our own GitHub repository. i.e. `git remote -v`
   - push the local repository to GitHub. i.e. `git push origin master`
   - Done!
+  
+# Testing 123
+
+This blog is written in Markdown format. Let's try something out!
+
+Here is a JavaScript code snippet:
+
+```js
+const add = (a, b) => a + b
+const c = add (10, 20)
+console.log(c)  //=> print 30
+```
+
+Here is a Python code snippet:
+
+```py
+def add(a, b):
+  return a + b
+
+c = add(10, 20)
+print(c)  # print 30
+```
+
+Problem: for some reason when I click on the code snippet it disappears???
