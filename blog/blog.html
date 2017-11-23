@@ -26,6 +26,7 @@ permalink: /blog/
                             {{ post.title }}
                         </a>
                         <div class="vote-info">
+                            <p>{{ post.excerpt }}</p>
                         {% if site.disqus %}
                             <i class="fa fa-comments-o"> </i> <a>Comments (<span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ post.url }}">0</span>)</a>
                         {% endif %}

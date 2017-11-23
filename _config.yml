@@ -2,7 +2,7 @@
 
 # Website settings
 title: Full-stack Machine Learning Notebook
-description: Join the Machine Learning and Full-stack Development Dots
+description: Joining the dots between Machine Learning and Full-stack App Development
 keywords: ai, machine learning, deep learning, Full-stack, Jalpc, blog, Jekyll, github, gh-pages
 #baseurl:  /atlas7.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://atlas7.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -19,6 +19,9 @@ author:  # change following line to your infomation.
   linkedin_id: johnnycnchan # Leave blank if you don't have now
   facebook_username: johnnychan0302  # Leave blank if you don't have now
   twitter_username: jAtlas7  # Leave blank if you don't have now
+  stackoverflow_id: "4517234" # Leave blank if you don't have now
+  stackoverflow_name: atlas7  # Leave blank if you don't have now
+  home2_url: http://mathalope.co.uk # Leave blank if you don't have now
   email: johnnychan0302@gmail.com  # Leave blank if you don't have now
   cv: # http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
@@ -28,7 +31,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Machine Learning Engineer.  # Describe yourself.
+  desc: Full-stack Machine Learning Engineer on a mission to joining the dots.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

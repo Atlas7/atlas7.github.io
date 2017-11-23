@@ -6,6 +6,15 @@
 - name: Python
   href: /python/
 
+- name: Javascript
+  href: /javascript/
+
+- name: Machine-learning
+  href: /machine-learning/
+
+- name: Full-stack
+  href: /full-stack/
+
 - name: Linux
   href: /linux/
 
@@ -20,6 +29,30 @@
 
 - name: Life
   href: /life/
+
+
+# blog page sections
+#- name: Blog
+#  href: /blog/
+#
+# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+#- name: Python
+#  href: /python/
+#
+#- name: Linux
+#  href: /linux/
+#
+#- name: HTML
+#  href: /html/
+#
+#- name: Database
+#  href: /database/
+#
+#- name: Mac
+#  href: /mac/
+#
+#- name: Life
+#  href: /life/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate

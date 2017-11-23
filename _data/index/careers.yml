@@ -1,29 +1,171 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: fungai.org
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: >
+      I created fungai.org with the aim helping scientists and enthusiasts to easily identify wild mushroom species
+      from images using deep learning technologies. This project is in partnership with Intel.
+      Initial prototype stack: JavaScript, ReactJS, jason-server, ImageNet, Heroku.
+      Upcoming stack: Tensorflow, Python, Docker.
+
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Nov 2017 - present, London
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Project Owner, Full-stack Machine Learning Engineer
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Mathalope.co.uk
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: >
+      I created Mathalope.co.uk to share notes and research findings in machine learning, full-stack development, and
+      programming. Since establishment the blog has been visited by 120,000+ students and professionals from
+      200+ countries. My current research focus is on combining machine learning with full-stack app development.
+      Blog Stack: WordPress, Gist, Mathjax, Markdown. Content Stack: Python, JavaScript, etc.
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Mar 2014 - present, London
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Author, Full-stack Machine Learning Engineer
   icon: fa-plus-square
+
+- name:
+    detail: Intel Software Innovator
+  desc:
+    detail: >
+      As an Intel® Software Innovator affiliate I have access to new Intel technologies (software and hardware)
+      and initiatives on creating and demonstrating forward-looking projects. Some related projects of mine include:
+      fungai.org, Life++, and HPC with Intel Xeon Phi. Current research focus mainly around AI and IoT.
+  date:
+    detail: Oct 2015 - present, London
+  job:
+    detail: Independent Developer, AI Specialist
+  icon: fa-plus-square
+
+- name:
+    detail: Dufrain Consulting | RBS
+  desc:
+    detail: >
+      Data Analytics Consultant at Royal Bank of Scotland (RBS) Commercial and Private Banking.
+      Owned the analytics and segmentation part of 3 high profile remediation projects.
+      Major tech stack: SAS, SQL, Oracle, Teradata, In-house credit risk systems
+  date:
+    detail: May 2016 - Apr 2017, London
+  job:
+    detail: Data Analytics Consultant
+  icon: fa-plus-square
+
+- name:
+    detail: Minboso
+  desc:
+    detail: >
+      Developed a Ruby-on-rail web app prototype for a wellness startup company.
+      Tech stack: Ruby, Ruby-on-Rails, Heroku, PostgreSQL, SQLite3, Google App Engine (GAE), Google Datastore,
+      Python, Git, GitHub, Trello, JavaScript, jQuery, AJAX, Google Docs.
+  date:
+    detail: Jan 2016 - Apr 2016, London
+  job:
+    detail: Full-stack Developer
+  icon: fa-plus-square
+
+- name:
+    detail: 11 Hackathons over 11 weeks
+  desc:
+    detail: >
+      Took 3 months off and did 11 hackathons over 11 weeks.
+      Major highlights: 2nd place (5000 EURO) team award at the Allianz Connected Life Hackathon,best use of DARPA
+      open source tools in a Ministry of Defence (MoD) Hackathon, and meeting a bunch of long-term friends.
+      These experiences motivated me to become better in open source developments.
+  date:
+    detail: Oct 2015 - Dec 2015, London
+  job:
+    detail: Hackathon Competitor, Developer
+  icon: fa-plus-square
+
+- name:
+    detail: Citi, London
+  desc:
+    detail: >
+      Senior Data Analytics Developer and Assistant Vice President (AVP) of a large global investment bank at
+      Canary Wharf. Collaborated with a global remote team of tech and non-tech domain experts and senior
+      stakeholders based across London, New York, Singapore and Japan. Designed, developed and implemented the
+      global roll-out of a fully automated (SAS and SQL based) early-warning web reporting and forecast analytics
+      tool and process that helped protect the bank’s estate of 100,000 production systems from risk of overloading.
+      Used by 400+ global support teams to form preventative actions against the high risk cases. I also did many
+      other things at the earlier part at the bank - mostly within the technology and operation areas.
+      Tech Stack: SAS, SQL, Oracle, AutoSys Batch Scheduling, Windows / UNIX scripts, internal bank-wide databases.
+  date:
+    detail: Aug 2008 - Sep 2015, London
+  job:
+    detail: Assistant Vice President (AVP), Senior Data Analytics Developer, SAS Programmer
+  icon: fa-plus-square
+
+- name:
+    detail: Imperial College London
+  desc:
+    detail: >
+      MEng Aeronautical Engineering (2:1). All things aeroplanes such as aerodynamics (the airflow round the wings),
+      aircraft structures (the wings and body), thermodynamics (the engines), numerical simulation with programming
+      (Matlab and Fortran), Helicopter mechanics, incredible amount of maths and calculus, and finally a 4-month
+      ERASMAS exchange at Instituto Superior Técnico (IST) based in Lisbon/ Portugal - learning and writing up a thesis
+      on GPS. Met some amazing friends and surfed for the first time. During the earlier days I also did some
+      volunteering at the London Science Museum (building scientific databases) and Natural History Museum
+      (dissecting mosquitoes samples for malaria researches).
+  date:
+    detail: Aug 2004 - Aug 2008, London
+  job:
+    detail: Aeronautical Engineer, Undergraduate
+  icon: fa-plus-square
+
+- name:
+    detail: Cathay Pacific Airways
+  desc:
+    detail: >
+      Engineer at Cathay Pacific Engineering Department (Power-plant Team), with a focus on ensuring all
+      the aircraft engines are well maintained and ready to serve the fleets.
+  date:
+    detail: Jul 2007 - Aug 2008, Hong Kong
+  job:
+    detail: Aeronautical Engineer, Summer Intern
+  icon: fa-plus-square
+
+- name:
+    detail: Rolls Royce
+  desc:
+    detail: >
+      As a result of winning a short essay writing competition I was invited to a 3-week design workshop hosted
+      by Rolls-Royce, University of Sheffield and the European Association of Aerospace Students (EUROAVIA).
+  date:
+    detail: Jul 2007 - Jul 2007, Derby (UK)
+  job:
+    detail: Aerospace Engineer, EUROAVIA Project Team
+  icon: fa-plus-square
+
+#- name:
+#    detail: Company A
+#    i18n: company_a
+#  desc:
+#    detail: I worked at Company A ...
+#    i18n: company_a_desc
+#  date:
+#    detail: Apr. 2016
+#    i18n: company_a_date
+#  job:
+#    detail: CTO
+#    i18n: company_a_job
+#  icon: fa-plus-square
+#
+#- name:
+#    detail: Company B
+#    i18n: company_b
+#  desc:
+#    detail: I worked at Company B ...
+#    i18n: company_b_desc
+#  date:
+#    detail: Jun. 2015
+#    i18n: company_b_date
+#  job:
+#    detail: Full Stack Developer
+#    i18n: company_b_job
+#  icon: fa-plus-square

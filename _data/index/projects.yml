@@ -1,22 +1,64 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: fungai.org
+#  i18n:
+  url: http://fungai.org
+  gh_user: Atlas7
+  repo: fungai-react-ui
+  img: /static/assets/img/landing/fungai_org_icon.png
+  desc: "fungai.org assists scientists and enthusiasts to easily identify wild mushroom species from images using deep learning technologies."
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: mathalope.co.uk
+#  i18n:
+  url: http://mathalope.co.uk
+  gh_user: Atlas7
+  repo: mathalope
+  img: /static/assets/img/landing/mathalope_icon.png
+  desc: "mathalope.co.uk is a tech blog visited by 120,000+ students and professionals from 200+ countries."
+
+- name: UK Towns (Alexa Skill)
+#  i18n:
+  url: https://www.amazon.co.uk/Mathalope-co-uk-UK-Towns/dp/B072YJ3WZ8/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511457656&sr=1-1&keywords=uk+towns
+  gh_user: Atlas7
+  repo: alexa-skill-uk-towns
+  img: /static/assets/img/landing/alexa_uk_towns_icon.png
+  desc: "Toy Project - A trivia game to learn a bit about the towns in UK."
+
+- name: Mind the Gap (Alexa Skill)
+#  i18n:
+  url: https://www.amazon.co.uk/Mathalope-co-uk-Mind-the-Gap/dp/B072SV753P/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511457428&sr=1-1&keywords=mind+the+gap
+  gh_user: Atlas7
+  repo: alexa-skill-mind-the-gap
+  img: /static/assets/img/landing/alexa_mind_the_gap_icon.png
+  desc: "Toy Project - A trivia game to learn a bit about the London Underground."
+
+
+- name: What the Pet (Alexa Skill)
+#  i18n:
+  url: https://www.amazon.co.uk/Mathalope-co-uk-What-the-Pet/dp/B0733LLFJQ/ref=sr_1_2?s=digital-skills&ie=UTF8&qid=1511457387&sr=1-2&keywords=what+the+pet
+  gh_user: Atlas7
+  repo: alexa-skill-what-the-pet
+  img: /static/assets/img/landing/alexa_what_the_pet_icon.png
+  desc: "Toy Project - A trivia game to help user choose a pet"
+
+#- name: Jalpc
+#  i18n: jalpc
+#  gh_user: jarrekk
+#  repo: Jalpc
+#  img: /static/assets/img/landing/jekyll.png
+#  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+#
+#- name: Python
+#  i18n: cpython
+#  gh_user: python
+#  repo: cpython
+#  img: /static/assets/img/landing/python.png
+#  desc: This project is other's project. I use another request to get repo's information.
+#
+#- name: Google
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+#  desc: This is another project.
