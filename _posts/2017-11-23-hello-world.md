@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first Jekyll blog on Github pages"
-date:   2017-11-23
+date:   2017-11-23T18:00:00
 desc: "Documentation of how I created my first Jekyll blog hosted on Github pages"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
