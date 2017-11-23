@@ -4,9 +4,9 @@
 title: Full-stack Machine Learning Notebook
 description: Joining the dots between Machine Learning and Full-stack App Development
 keywords: ai, machine learning, deep learning, Full-stack, Jalpc, blog, Jekyll, github, gh-pages
-#baseurl:  /atlas7.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://atlas7.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
-# url: http://127.0.0.1:4000
+#baseurl:  /homepage  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+#url: https://atlas7.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+url: http://127.0.0.1:4000
 img_path: /atlas7.github.io/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
@@ -34,20 +34,20 @@ author:  # change following line to your infomation.
   desc: Full-stack Machine Learning Engineer on a mission to joining the dots.  # Describe yourself.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #  name: jalpc
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
   # id:
 
 ## google optimize
-go:
+#go:
   # id:
 
 ## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+#gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
 ## donation
@@ -67,7 +67,17 @@ encoding: utf-8
 # other settings
 highlighter: rouge
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+#kramdown:
+#  input: GFM
+#  syntax_highlighter: rouge
+#  auto_ids: true
 
+kramdown:
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
+  syntax_highlighter: rouge
