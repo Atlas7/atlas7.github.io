@@ -41,9 +41,16 @@ How I created this blog:
 
 This blog is written in Markdown format. Let's try something out!
 
+Here is a raw text snippet:
+
+```
+hello 123
+hello testing 123
+```
+
 Here is a JavaScript code snippet:
 
-```js
+```javascript
 const add = (a, b) => a + b
 const c = add (10, 20)
 console.log(c)  //=> print 30
@@ -51,7 +58,7 @@ console.log(c)  //=> print 30
 
 Here is a Python code snippet:
 
-```py
+```python
 def add(a, b):
   return a + b
 
