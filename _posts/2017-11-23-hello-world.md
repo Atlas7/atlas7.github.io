@@ -41,6 +41,13 @@ How I created this blog:
 
 This blog is written in Markdown format. Let's try something out!
 
+Here is a bash snippet:
+
+```bash
+cd ENV
+source ./bin/activate
+```
+
 Here is a raw text snippet:
 
 ```
