@@ -41,7 +41,7 @@ Easy, just do push master to origin:
 git push origin master
 ```
 
-(or just `git push`)
+(or just `git push`). The actual GitHub pages [https://atlas7.github.io/] may take a few seconds to build / update.
 
 ### How you may create a blog like this:
 
