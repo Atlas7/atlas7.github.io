@@ -4,10 +4,12 @@
 title: Full-stack Machine Learning Notebook
 description: Joining the dots between Machine Learning and Full-stack App Development
 keywords: ai, machine learning, deep learning, Full-stack, Jalpc, blog, Jekyll, github, gh-pages
-#baseurl:  /homepage  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-#url: https://atlas7.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
-url: http://127.0.0.1:4000
-img_path: /atlas7.github.io/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+
+# option 1 - publish to http://127.0.0.1:4000/ or https://atlas7.github.io
+#baseurl: /   #comment this out entirely. (otherwise CSS issue)
+url: https://atlas7.github.io  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage
+img_path: /static/assets/img/blog  # /homepage/static/assets/img/blog
+
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
