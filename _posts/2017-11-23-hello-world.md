@@ -73,4 +73,13 @@ c = add(10, 20)
 print(c)  # print 30
 ```
 
-Problem: for some reason when I click on the code snippet it disappears???
+Looking good!
+
+---
+
+Some previously mentioned now fixed:
+
+- Problem: for some reason when I click on the code snippet it disappears???
+[Fixed - see this GitHub Issue Log](https://github.com/jarrekk/Jalpc/issues/97)
+
+---
