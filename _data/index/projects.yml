@@ -18,6 +18,14 @@
   img: /static/assets/img/landing/mathalope_icon.png
   desc: "mathalope.co.uk is a tech blog visited by 120,000+ students and professionals from 200+ countries."
 
+- name: atlas7.githib.io
+#  i18n:
+  url: https://atlas7.github.io/
+  gh_user: Atlas7
+  repo: atlas7.github.io
+  img: /static/assets/img/landing/avatar.jpg
+  desc: "(aka this blog) My attempt to build a free website with Jekyll and GitHub Pages. It uses the beautiful Jalpc theme."
+
 - name: UK Towns (Alexa Skill)
 #  i18n:
   url: https://www.amazon.co.uk/Mathalope-co-uk-UK-Towns/dp/B072YJ3WZ8/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511457656&sr=1-1&keywords=uk+towns
