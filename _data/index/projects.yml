@@ -8,7 +8,10 @@
   gh_user: Atlas7
   repo: fungai-react-ui
   img: /static/assets/img/landing/fungai_org_icon.png
-  desc: "fungai.org assists scientists and enthusiasts to easily identify wild mushroom species from images using deep learning technologies."
+  desc: >
+    fungai.org assists scientists and enthusiasts to easily identify wild mushroom species from images using deep
+    learning technologies. I created this project in partnership with Intel. Initial prototype stack: JavaScript,
+    ReactJS, jason-server, ImageNet, Heroku. Upcoming stack: Tensorflow, Python, Docker.
 
 - name: mathalope.co.uk
 #  i18n:
@@ -16,7 +19,10 @@
   gh_user: Atlas7
   repo: mathalope
   img: /static/assets/img/landing/mathalope_icon.png
-  desc: "mathalope.co.uk is a tech blog visited by 120,000+ students and professionals from 200+ countries."
+  desc: >
+    Mathalope.co.uk is a tech blog visited by 120,000+ students and professionals from 200+ countries. I use this blog
+    to document and share tech notes with the rest of the world, mainly on programming, infrastructure, machine
+    learning, and statistics. Tech Stack: Wordpress(.org), Gist, Markdown, MathJax, and a bit of PHP and JavaScript.
 
 - name: atlas7.githib.io
 #  i18n:
@@ -24,7 +30,22 @@
   gh_user: Atlas7
   repo: atlas7.github.io
   img: /static/assets/img/landing/avatar.jpg
-  desc: "(aka this blog) My attempt to build a free website with Jekyll and GitHub Pages. It uses the beautiful Jalpc theme."
+  desc: >
+    (aka this website) My attempt to build a portfolio website with Jekyll and GitHub Pages.
+    It uses the beautiful Jalpc theme.
+
+- name: Friends of Russia Dock Woodland (Home Page)
+#  i18n:
+  url: https://atlas7.github.io/fordworg/
+  gh_user: Atlas7
+  repo: fordworg
+  img: /static/assets/img/landing/kingfisher.jpg
+  desc: >
+    I volunteered to build an official home page for Friends of Russia Dock Woodland - a group of residents
+    in Rotherhithe who help to protect and improve our local woodland and Stave Hill ecological park. I worked with
+    Clare (my partner who is also part of the group) and put together a usable website in 2 days - built with Jekyll,
+    GitHub Pages, and lots of Google searches. I also taught Clare Git, Github, and Markdown so we could work on this
+    in parallel - Clare on contents while me on the overall tech stack.
 
 - name: UK Towns (Alexa Skill)
 #  i18n:
