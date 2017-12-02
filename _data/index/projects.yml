@@ -2,16 +2,29 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: fungai.org
+- name: fungai.org - Jekyll Blog
 #  i18n:
-  url: http://fungai.org
+  url: https://atlas7.github.io/fungai-blog/
+  gh_user: Atlas7
+  repo: fungai-blog
+  img: /static/assets/img/landing/fungai_org_icon.png
+  desc: the would-be home page for fungai.org. Built with Jekyll and Github pages.
+
+- name: fungai.org - ReactJS UI (POC)
+#  i18n:
+  url: https://fungai-react-ui.herokuapp.com/fungpredict
   gh_user: Atlas7
   repo: fungai-react-ui
   img: /static/assets/img/landing/fungai_org_icon.png
-  desc: >
-    fungai.org assists scientists and enthusiasts to easily identify wild mushroom species from images using deep
-    learning technologies. I created this project in partnership with Intel. Initial prototype stack: JavaScript,
-    ReactJS, jason-server, ImageNet, Heroku. Upcoming stack: Tensorflow, Python, Docker.
+  desc: proof-of-concept of what the offline image classification UI might look like. Built with ReactJS and Heroku.
+
+- name: fungai.org - fake json-server API (POC)
+#  i18n:
+  url: https://fungai-json-server-heroku.herokuapp.com/
+  gh_user: Atlas7
+  repo: fungai-json-server-heroku
+  img: /static/assets/img/landing/fungai_org_icon.png
+  desc: a fake API backend to aid prototyping the ReactJS frontend prototype. Built with json-server and Heroku.
 
 - name: mathalope.co.uk
 #  i18n:
@@ -42,10 +55,7 @@
   img: /static/assets/img/landing/kingfisher.jpg
   desc: >
     I volunteered to build an official home page for Friends of Russia Dock Woodland - a group of residents
-    in Rotherhithe who help to protect and improve our local woodland and Stave Hill ecological park. I worked with
-    Clare (my partner who is also part of the group) and put together a usable website in 2 days - built with Jekyll,
-    GitHub Pages, and lots of Google searches. I also taught Clare Git, Github, and Markdown so we could work on this
-    in parallel - Clare on contents while me on the overall tech stack.
+    in Rotherhithe who help to protect and improve our local woodland and Stave Hill ecological park.
 
 - name: UK Towns (Alexa Skill)
 #  i18n:
