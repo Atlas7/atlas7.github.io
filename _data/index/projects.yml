@@ -8,7 +8,9 @@
   gh_user: Atlas7
   repo: fungai-blog
   img: /static/assets/img/landing/fungai_org_icon.png
-  desc: the would-be home page for fungai.org. Built with Jekyll and Github pages.
+  desc: >
+    fungai.org assists scientists and enthusiasts to easily identify wild mushroom species from images using
+    deep learning technologies. I built this blog with Jekyll and Github pages.
 
 - name: fungai.org - ReactJS UI (POC)
 #  i18n:
@@ -47,7 +49,7 @@
     (aka this website) My attempt to build a portfolio website with Jekyll and GitHub Pages.
     It uses the beautiful Jalpc theme.
 
-- name: Friends of Russia Dock Woodland (Home Page)
+- name: Friends of Russia Dock Woodland (fordw.org)
 #  i18n:
   url: https://atlas7.github.io/fordworg/
   gh_user: Atlas7
