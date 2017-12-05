@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Atlas7/atlas7.github.io.svg?branch=master)](https://travis-ci.org/Atlas7/atlas7.github.io)
+
 Welcome to my blog: [https://atlas7.github.io/](https://atlas7.github.io/)
 
 It is is built with Jekyll, GitHub Pages, and the [Jalpc Theme](https://github.com/jarrekk/Jalpc)

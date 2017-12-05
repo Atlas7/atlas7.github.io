@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code snippet tests 3"
-date:   2017-11-23T20:51:00
+date:   2017-11-23 20:51:00
 desc: "Code snippet tests 3"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]

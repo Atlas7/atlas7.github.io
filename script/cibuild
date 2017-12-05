@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+bundle exec jekyll build
+
+# ignore html proofer checks for now. Need to fix internal linking for blog section.
+# bundle exec htmlproofer ./_site --disable-external --allow-hash-href
