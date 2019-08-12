@@ -7,7 +7,7 @@ It is is built with Jekyll, GitHub Pages, and the [Jalpc Theme](https://github.c
 
 ### How I publish post
 
-git clone this repository locally to my mac.
+git clone this repository locally to my macbook.
 
 Make sure git repository has the appropriate remote:
 
